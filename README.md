@@ -29,7 +29,7 @@ Brief overview of our schedule for the next 20 weeks. Tier 1 is online, while Ti
 ### Tier 2
 In class, on campus M-F 8:30 to 5 PM.
 
-**Week 7:** HTML/CSS, JavaScript, jQuery, Git, Bootstrap
+**Week 7:** HTML/CSS, JavaScript, jQuery, Git
 
 **Week 8:** Server-side JavaScript (Node), npm, Express, AJAX
 
